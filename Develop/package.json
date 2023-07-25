@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "readmegenerator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creates a professional ReadMe for future projects.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Connor Rhoden",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "8.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CARhoden/Readme-Gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CARhoden/Readme-Gen/issues"
+  },
+  "homepage": "https://github.com/CARhoden/Readme-Gen#readme"
 }
