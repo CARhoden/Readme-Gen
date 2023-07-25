@@ -80,7 +80,12 @@ function makeReadMe() {
             name: 'email',
             message: 'What is your email?'
         }
-    ])
+    ]).then((response) => {
+        markdown = generateMarkdown(response)
+        fs.writeFile('README.md', markdown,
+            (err) =>
+                err ? console.log("Error trying to make README", err) : console.log('README created Successfully!'))
+    })
 }
 
 makeReadMe()
