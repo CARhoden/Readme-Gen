@@ -34,7 +34,7 @@
 
   ![image](https://github.com/CARhoden/Readme-Gen/assets/101947931/4188ce1c-58c6-48c7-9552-0dc8f9cd5bf8)
 
-  ![Video](https://drive.google.com/file/d/1XuTSvMnafmilXvSdT_sx1OkmWPqNrtfb/view)
+  https://drive.google.com/file/d/1XuTSvMnafmilXvSdT_sx1OkmWPqNrtfb/view
   
   ## License
 
