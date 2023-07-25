@@ -30,10 +30,11 @@
 
   ## Usage
 
-  When you have the repo cloned on your local machine, right click the index.js and open the intergrated console. Then run ` node index.js `and you will be prompted with questions in the terminal.
-  ![image](https://github.com/CARhoden/Readme-Gen/assets/101947931/91ac597c-f639-443f-b3f7-f53d48ee7fe9)
+  When you have the repo cloned on your local machine, right click the index.js and open the intergrated console. Then run ` node index.js ` and you will be prompted with questions in the terminal.
 
-  ![Application in action](N/A)
+  ![image](https://github.com/CARhoden/Readme-Gen/assets/101947931/4188ce1c-58c6-48c7-9552-0dc8f9cd5bf8)
+
+  ![Application in action](https://drive.google.com/file/d/1XuTSvMnafmilXvSdT_sx1OkmWPqNrtfb/view)
   
   ## License
 
@@ -47,7 +48,7 @@ This project is covered under the MIT License license.
 
   ## Tests
 
-  Within the integrated terminal.
+  Within the intergrated terminal.
 
   ## Questions
 
